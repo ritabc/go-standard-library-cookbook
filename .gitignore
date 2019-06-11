@@ -1,0 +1,11 @@
+# Ignore everything
+**/
+
+# Unignore all directories
+!*/
+
+# Unignore all files with extensions
+!*.*
+
+# Ignore Goland /.idea files
+*/.idea/*
