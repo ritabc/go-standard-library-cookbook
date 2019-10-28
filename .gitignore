@@ -1,2 +1,8 @@
 # Ignore anything without an extension
 [^\.]*
+
+# Unigore all dirs
+!*/
+
+# Unignore all files with an extension
+!*.*
