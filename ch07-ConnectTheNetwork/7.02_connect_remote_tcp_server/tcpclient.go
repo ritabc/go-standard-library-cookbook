@@ -1,3 +1,4 @@
+// Connect to TCP server at a lower level. Refer to 7.04 for communication with HTTP server at higher level
 package main
 
 import (
